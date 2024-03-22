@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-backend-avanzado",
+  "version": "1.0.0",
+  "description": "proyecto backend avanzado",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Angel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
